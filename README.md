@@ -53,25 +53,8 @@
 
 
         
-        <div class="row">
-            <div class="col-12">
-                <p class="kb-index-meta-print"><b>Id:</b> AR02R01074</p>
-            </div>
-            <div class="col-12">
-                <p class="kb-index-meta-print"><b>Applies to: </b>NoMachine Software</p>
-            </div>
-            <div class="col-12">
-                <p class="kb-index-meta-print"><b>Added on: </b>2020-02-06</p>
-            </div>
-            <div class="col-12 kb-pd-bottom-20">
-                <p class="kb-index-meta-print"><b>Last Update:</b> 2024-07-05</p>
-            </div>
-        </div>
-
-        </div>
-    <hr>
-    <p>
-	NoMachine can be installed on a Jetson Nano out-of-the-box. There are a couple of tweaks to consider if you are using your Nano as a headless server.</p>
+      
+   
 <p>
 	This article assumes that you have already installed the appropriate Ubuntu image dedicated to this device from the Nvidia website (<a href="https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit">https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit</a>) and the device is ready.</p>
 <p>
