@@ -1,4 +1,6 @@
 # setting-no-machine-
+
+### check : https://www.nomachine.com/getting-started-with-nomachine
 <div class="col-12 kb-max-width ml-2">
                 <h2 id="kb-1" class="kb-content-title" style="line-height: initial; word-break: break-word;">Tips for using NoMachine on NVIDIA Jetson Nano</h2>                <div class="kb-content tableRowLast" id="kb-content">
                     <p>
